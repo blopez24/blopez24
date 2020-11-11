@@ -25,8 +25,8 @@
 
 ### Languages and Tools:
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />](https://docs.python.org/3/)
-[<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />](https://docs.oracle.com/javase/7/docs/api/)
-[<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />](https://docs.microsoft.com/en-us/cpp/c-language/c-language-reference?view=msvc-160)
+[<img align="left" alt="Java" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/java-23-225999.png" />](https://docs.oracle.com/javase/7/docs/api/)
+[<img align="left" alt="C" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" />](https://docs.microsoft.com/en-us/cpp/c-language/c-language-reference?view=msvc-160)
 [<img align="left" alt="Andorid Studio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Android_Studio_icon.svg/1200px-Android_Studio_icon.svg.png" />](https://developer.android.com/studio)
 [<img align="left" alt="Andorid" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />](https://developer.android.com/reference)
 [<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />](https://flutter.dev/docs)
