@@ -8,16 +8,16 @@
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/bryan-lopez-22a98a159/)
 - 💬 Ask me about anything computer science relate. 💻
 - 😄 Pronouns: He / Him / His 
-- ⚡ Fun fact: My personal best time for solving a 3x3 rubik's cube is ~ 10 seconds. 
+- ⚡ Fun fact: My personal best time for solving a 3x3 rubik's cube is ~10 seconds. 
 <!-- - 3 🏁 I just finished my ... -->
 <!-- - 4 📚 I'd like to learn ... -->
 
 ### Connect with me:
-[<img align="left" alt="ln" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/900/900782.svg" />](https://blopez24.github.io/)
+[<img align="left" alt="ln" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1/1198.svg" />](https://blopez24.github.io/)
 [<img align="left" alt="ln" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/bryan-lopez-22a98a159/)
 [<img align="left" alt="tw" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/BryanLo38770471)
 [<img align="left" alt="rd" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />](https://www.reddit.com/user/B-L-O)
-[<img align="left" alt="ig" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/bmlopez24/)
+[<img align="left" alt="ig" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1419/1419647.svg" />](https://www.instagram.com/bmlopez24/)
 
 <br />
 
