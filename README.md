@@ -1,19 +1,16 @@
 ## Hello, I'm Bryan Lopez 👋
 
-[![Linkedin](https://img.shields.io/website?label=My%20Linkedin&style=for-the-badge&logo=linkedin&color=green&url=https://www.linkedin.com/in/bryan-lopez-22a98a159/)]
-
 ### I'm a college student at University of California, Santa Cruz
 
 
 - 🔭 I’m currently working on finishing my [Simple Weater App in Flutter](https://github.com/blopez24/Weather-App)
 - 🌱 I’m currently learning PERN Stack
-- 🏁 I just finished my ...
-- 📚 I'd like to learn ...
+<!-- - 🏁 I just finished my ... -->
+<!-- - 📚 I'd like to learn ... -->
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/bryan-lopez-22a98a159/)
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+- 💬 Ask me about anything computer science relate. 💻
+- 😄 Pronouns: He / Him / His 
+- ⚡ Fun fact: My personal best time for solving a 3x3 rubik's cube is ~ 10 seconds. 
 
 ### Connect with me:
 [<img align="left" alt="ln" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/bryan-lopez-22a98a159/)
