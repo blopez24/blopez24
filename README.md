@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on finishing my [Simple Weater App in Flutter](https://github.com/blopez24/Weather-App)
 - 🌱 I’m currently learning PERN Stack
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/bryan-lopez-22a98a159/)
-- 💬 Ask me about anything computer science related. 💻
+- 💬 Ask me about anything computer science, movie, tv show, or job related. 💻🎬📺👔
 - 😄 Pronouns: He / Him / His 
 - ⚡ Fun fact: My personal best time for solving a 3x3 rubik's cube is ~10 seconds. 
 <!-- - 3 🏁 I just finished my ... -->
